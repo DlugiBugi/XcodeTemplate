@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 CodeSurf. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "AppStartViewController.h"
 
-@interface ViewController ()
+@interface AppStartViewController ()
 
 @end
 
-@implementation ViewController
+@implementation AppStartViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

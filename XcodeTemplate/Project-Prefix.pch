@@ -1,0 +1,18 @@
+//
+//  Project-Prefix.pch
+//  XcodeTemplate
+//
+//  Created by Jakub Dlugosz on 10.05.2015.
+//  Copyright (c) 2015 CodeSurf. All rights reserved.
+//
+
+#ifndef XcodeTemplate_Project_Prefix_pch
+#define XcodeTemplate_Project_Prefix_pch
+
+#import "Constants.h"
+#import "CoreData.h"
+#import "NetworkManager.h"
+
+#import "ViewControllerBase.h"
+
+#endif
